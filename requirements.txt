@@ -1,0 +1,6 @@
+ipywidgets
+matplotlib
+notebook
+numpy
+tabulate
+tqdm
